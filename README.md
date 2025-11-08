@@ -65,7 +65,7 @@ projeto-Entrega-III-Programa-o-para-Interfaces-Web/
 
 Este projeto está disponível via GitHub Pages:
 
-https://higoalmeida1997.github.io/projeto-Entrega-III-Programa-o-para-Interfaces-Web./
+https://higoalmeida1997.github.io/projeto-Entrega-III-Programa-Interfaces-Web
 
 ---
 
